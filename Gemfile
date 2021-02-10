@@ -56,3 +56,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jquery-rails'
 gem 'fullcalendar-rails'
 gem 'momentjs-rails'
+
+gem 'carrierwave'
+
+gem 'devise'
+gem 'cancancan'
+gem 'rails_admin'
